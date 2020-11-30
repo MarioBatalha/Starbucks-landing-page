@@ -1,1 +1,1 @@
-# Starbucks-lading-page
+# Starbucks-landing-page
